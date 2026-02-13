@@ -406,7 +406,7 @@ cmake --build build --target unit_tests
 
 ## 附录：相关文件链接
 
-- [risk_controller.h](file:///e:\hairline-defense-force\include\risk_controller.h) - 风控引擎头文件
-- [risk_controller.cpp](file:///e:\hairline-defense-force\src\risk_controller.cpp) - 风控引擎实现
-- [risk_test.cpp](file:///e:\hairline-defense-force\tests\risk_test.cpp) - 单元测试
-- [types.h](file:///e:\hairline-defense-force\include\types.h) - 数据类型定义
+- [risk_controller.h](../include/risk_controller.h) - 风控引擎头文件
+- [risk_controller.cpp](../src/risk_controller.cpp) - 风控引擎实现
+- [risk_test.cpp](../tests/risk_test.cpp) - 单元测试
+- [types.h](../include/types.h) - 数据类型定义
